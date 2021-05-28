@@ -6,4 +6,4 @@ Jig to convert the J-Link 9pin Cortex-M adapter to a 5pin conthrough.
 ## About Conthrough
 
 A pin header with spring contact.  
-The ![XE-1](https://www.mac8sdk.co.jp/products/430) / Mac8 is used.
+The [XE-1](https://www.mac8sdk.co.jp/products/430) / Mac8 is used.
